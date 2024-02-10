@@ -1,6 +1,6 @@
 module github.com/ASCE-D/m-highscore
 
-go 1.18
+go 1.19
 
 require (
 	github.com/ASCE-D/m-apis/m-highscore v0.0.0-20240209163443-fbe96218879e
